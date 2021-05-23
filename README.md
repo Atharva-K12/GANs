@@ -13,7 +13,13 @@ Implementations of different types of GANs
     run the DCGAN.py file to train the network.
     
    ##### Results
+   Transition of outpus while training
+   
+   ![Transition](https://github.com/Atharva-K12/GANs/blob/main/Test_outputs/DCGAN_gif.gif) 
+   
+   Real and fake image comparison
    
    ![Comparison](https://github.com/Atharva-K12/GANs/blob/main/Test_outputs/Comparison.png)
+
     
     
